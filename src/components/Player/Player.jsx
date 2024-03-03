@@ -12,8 +12,8 @@ const Player = ({ showData, ck }) => {
     autostart: false,
     controls: true,
     pipIcon: "disabled",
-    abouttext: "RAJVEER 🚀",
-    aboutlink: "https://github.com/Rajveer-Mahida/",
+    abouttext: ".",
+    aboutlink: "https://github.com/",
     preload: "auto",
     skin: {
       controlbar: {
